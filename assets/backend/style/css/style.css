@@ -1,0 +1,22 @@
+.product-status{
+        margin-left: 100px
+   }
+.product-status span{
+    position: absolute;
+    padding-left: 10px;
+   
+}
+
+.profile_image{
+    width: 170px !important;
+    height: 170px !important;
+    padding: 2px !important;
+    background: #fed700 !important;
+    border-radius: 50%;
+}
+.upload_button{
+      border-radius: 7px;
+      margin-top: 6px;
+ }
+
+
